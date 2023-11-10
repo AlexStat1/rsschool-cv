@@ -4,6 +4,7 @@ Ivanov Alexey Alexandrovich
 I'm from Yaroslavl.
 Email: aleksejivanov03bk.ru@gmail.com
 Phone: +79159645941
+Discord nickname: stariy (AlexStat1)
 ## About me
 My goal is to study all the necessary technologies for the confident development of projects of any complexity and in the best execution. For 1.5 years I have been developing as a frontend developer. During this time, I have completed several dozen projects of various levels of complexity.
 ## Skills
